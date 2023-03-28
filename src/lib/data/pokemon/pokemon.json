@@ -1,0 +1,142 @@
+[
+  {
+    "id": "#0001",
+    "name": "bulbasaur",
+    "category": "seed",
+    "type": ["grass", "poison"],
+    "url": "http://localhost:3000/assets/images/pokemon/bulbasaur.png"
+  },
+  {
+    "id": "#0002",
+    "name": "ivysaur",
+    "category": "seed",
+    "type": ["grass", "poison"],
+    "url": "http://localhost:3000/assets/images/pokemon/ivysaur.png"
+  },
+  {
+    "id": "#0003",
+    "name": "venusaur",
+    "category": "seed",
+    "type": ["grass", "poison"],
+    "url": "http://localhost:3000/assets/images/pokemon/venusaur.png"
+  },
+  {
+    "id": "#0004",
+    "name": "charmander",
+    "category": "lizard",
+    "type": ["fire"],
+    "url": "http://localhost:3000/assets/images/pokemon/venusaur.png"
+  },
+  {
+    "id": "#0005",
+    "name": "charmeleon",
+    "category": "flame",
+    "type": ["fire"],
+    "url": "http://localhost:3000/assets/images/pokemon/charmeleon.png"
+  },
+  {
+    "id": "#0006",
+    "name": "charizard",
+    "category": "flame",
+    "type": ["fire", "flying"],
+    "url": "http://localhost:3000/assets/images/pokemon/charizard.png"
+  },
+  {
+    "id": "#0007",
+    "name": "squirtle",
+    "category": "tiny turtle",
+    "type": ["water"],
+    "url": "http://localhost:3000/assets/images/pokemon/squirtle.png"
+  },
+  {
+    "id": "#0008",
+    "name": "wartortle",
+    "category": "turtle",
+    "type": ["water"],
+    "url": "http://localhost:3000/assets/images/pokemon/wartortle.png"
+  },
+  {
+    "id": "#0009",
+    "name": "blastoise",
+    "category": "shellfish",
+    "type": ["water"],
+    "url": "http://localhost:3000/assets/images/pokemon/blastoise.png"
+  },
+  {
+    "id": "#0010",
+    "name": "caterpie",
+    "category": "worm",
+    "type": ["bug"],
+    "url": "http://localhost:3000/assets/images/pokemon/caterpie.png"
+  },
+  {
+    "id": "#0011",
+    "name": "metapod",
+    "category": "cocoon",
+    "type": ["bug"],
+    "url": "http://localhost:3000/assets/images/pokemon/metapod.png"
+  },
+  {
+    "id": "#0012",
+    "name": "butterfree",
+    "category": "butterfly",
+    "type": ["bug", "flying"],
+    "url": "http://localhost:3000/assets/images/pokemon/butterfree.png"
+  },
+  {
+    "id": "#0013",
+    "name": "weedle",
+    "category": "hairy bug",
+    "type": ["bug", "poison"],
+    "url": "http://localhost:3000/assets/images/pokemon/weedle.png"
+  },
+  {
+    "id": "#0014",
+    "name": "kakuna",
+    "category": "cocoon",
+    "type": ["bug", "poison"],
+    "url": "http://localhost:3000/assets/images/pokemon/kakuna.png"
+  },
+  {
+    "id": "#0015",
+    "name": "beedrill",
+    "category": "poison bee",
+    "type": ["bug", "poison"],
+    "url": "http://localhost:3000/assets/images/pokemon/beedrill.png"
+  },
+  {
+    "id": "#0016",
+    "name": "pidgey",
+    "category": "tiny bird",
+    "type": ["normal", "flying"],
+    "url": "http://localhost:3000/assets/images/pokemon/pidgey.png"
+  },
+  {
+    "id": "#0017",
+    "name": "pidgeotto",
+    "category": "bird",
+    "type": ["normal", "flying"],
+    "url": "http://localhost:3000/assets/images/pokemon/pidgeotto.png"
+  },
+  {
+    "id": "#0018",
+    "name": "pidgeot",
+    "category": "bird",
+    "type": ["normal", "flying"],
+    "url": "http://localhost:3000/assets/images/pokemon/pidgeot.png"
+  },
+  {
+    "id": "#0019",
+    "name": "rattata",
+    "category": "mouse",
+    "type": ["normal"],
+    "url": "http://localhost:3000/assets/images/pokemon/rattata.png"
+  },
+  {
+    "id": "#0020",
+    "name": "raticate",
+    "category": "mouse",
+    "type": ["normal"],
+    "url": "http://localhost:3000/assets/images/pokemon/raticate.png"
+  }
+]
